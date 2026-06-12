@@ -4,7 +4,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![Built in the open](https://img.shields.io/badge/built-in%20the%20open-B98F3E.svg)](https://github.com/CODE-CRUNCH-CLUB)
+[![Built in the open](https://img.shields.io/badge/built-in%20the%20open-B98F3E.svg)](https://github.com/CODECRUNCHWORLDWIDE)
 
 This is the senior-engineer track for Python on the web. It assumes you have completed **C1 · Code Crunch Convos** (or have equivalent Python proficiency) and the equivalent of Week 9 of C1 (basic Flask). C16 takes you from "I made a Flask app" to "I run a Python web service in production."
 

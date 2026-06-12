@@ -178,4 +178,4 @@ To keep this track focused, C16 does not cover:
 
 ## License
 
-GPL-3.0. Fork, adapt, teach. If you improve it, [PR the improvement](https://github.com/CODE-CRUNCH-CLUB) back so the next learner benefits.
+GPL-3.0. Fork, adapt, teach. If you improve it, [PR the improvement](https://github.com/CODECRUNCHWORLDWIDE) back so the next learner benefits.
