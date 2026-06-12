@@ -1,0 +1,601 @@
+{
+  "repo": "C16-CRUNCH-PRO-WEB-BACKEND",
+  "files": [
+    {
+      "path": "CODE_OF_CONDUCT.md",
+      "title": "Contributor Covenant Code of Conduct"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "title": "Contributing to Crunch Pro \u2014 Web Backend"
+    },
+    {
+      "path": "README.md",
+      "title": "C16 \u00b7 Crunch Pro \u2014 Python Web Backend"
+    },
+    {
+      "path": "curriculum/README.md",
+      "title": "C16 \u00b7 Crunch Pro Web Backend \u2014 Curriculum"
+    },
+    {
+      "path": "curriculum/SYLLABUS.md",
+      "title": "C16 \u00b7 Crunch Pro Web Backend \u2014 Full Syllabus"
+    },
+    {
+      "path": "curriculum/week-01-http-and-the-modern-python-web/README.md",
+      "title": "Week 1 \u2014 HTTP and the Modern Python Web"
+    },
+    {
+      "path": "curriculum/week-01-http-and-the-modern-python-web/challenges/README.md",
+      "title": "Week 1 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-01-http-and-the-modern-python-web/challenges/challenge-01-status-code-explorer.md",
+      "title": "Challenge 1 \u2014 Status Code Explorer"
+    },
+    {
+      "path": "curriculum/week-01-http-and-the-modern-python-web/challenges/challenge-02-write-the-response.md",
+      "title": "Challenge 2 \u2014 Hand-Written HTTP Response"
+    },
+    {
+      "path": "curriculum/week-01-http-and-the-modern-python-web/exercises/README.md",
+      "title": "Week 1 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-01-http-and-the-modern-python-web/exercises/exercise-01-raw-http-with-netcat.md",
+      "title": "Exercise 1 \u2014 Raw HTTP with `nc`"
+    },
+    {
+      "path": "curriculum/week-01-http-and-the-modern-python-web/homework.md",
+      "title": "Week 1 Homework"
+    },
+    {
+      "path": "curriculum/week-01-http-and-the-modern-python-web/lecture-notes/01-the-anatomy-of-http.md",
+      "title": "Lecture 1 \u2014 The Anatomy of HTTP"
+    },
+    {
+      "path": "curriculum/week-01-http-and-the-modern-python-web/lecture-notes/02-wsgi-asgi-and-the-python-web-standards.md",
+      "title": "Lecture 2 \u2014 WSGI, ASGI, and the Python Web Standards"
+    },
+    {
+      "path": "curriculum/week-01-http-and-the-modern-python-web/lecture-notes/03-the-python-web-framework-landscape.md",
+      "title": "Lecture 3 \u2014 The Python Web Framework Landscape"
+    },
+    {
+      "path": "curriculum/week-01-http-and-the-modern-python-web/mini-project/README.md",
+      "title": "Mini-Project \u2014 Django By Hand"
+    },
+    {
+      "path": "curriculum/week-01-http-and-the-modern-python-web/quiz.md",
+      "title": "Week 1 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-01-http-and-the-modern-python-web/resources.md",
+      "title": "Week 1 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-02-django-models-orm-admin/README.md",
+      "title": "Week 2 \u2014 Django Models, the ORM, and the Admin"
+    },
+    {
+      "path": "curriculum/week-02-django-models-orm-admin/challenges/README.md",
+      "title": "Week 2 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-02-django-models-orm-admin/challenges/challenge-01-spot-the-n-plus-1.md",
+      "title": "Challenge 1 \u2014 Spot the N+1"
+    },
+    {
+      "path": "curriculum/week-02-django-models-orm-admin/challenges/challenge-02-custom-admin-action.md",
+      "title": "Challenge 2 \u2014 Custom Admin Action with Failure Handling"
+    },
+    {
+      "path": "curriculum/week-02-django-models-orm-admin/exercises/README.md",
+      "title": "Week 2 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-02-django-models-orm-admin/exercises/exercise-01-design-the-model.md",
+      "title": "Exercise 1 \u2014 Design the Model"
+    },
+    {
+      "path": "curriculum/week-02-django-models-orm-admin/exercises/exercise-02-shell-queries.md",
+      "title": "Exercise 2 \u2014 Shell Queries"
+    },
+    {
+      "path": "curriculum/week-02-django-models-orm-admin/exercises/exercise-03-customize-the-admin.md",
+      "title": "Exercise 3 \u2014 Customize the Admin"
+    },
+    {
+      "path": "curriculum/week-02-django-models-orm-admin/homework.md",
+      "title": "Week 2 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-02-django-models-orm-admin/lecture-notes/01-models-and-fields.md",
+      "title": "Lecture 1 \u2014 Models and Fields"
+    },
+    {
+      "path": "curriculum/week-02-django-models-orm-admin/lecture-notes/02-relationships-and-migrations.md",
+      "title": "Lecture 2 \u2014 Relationships and Migrations"
+    },
+    {
+      "path": "curriculum/week-02-django-models-orm-admin/lecture-notes/03-the-queryset-api-and-the-admin.md",
+      "title": "Lecture 3 \u2014 The QuerySet API and the Admin"
+    },
+    {
+      "path": "curriculum/week-02-django-models-orm-admin/mini-project/README.md",
+      "title": "Mini-Project \u2014 `crunchwriter` v0"
+    },
+    {
+      "path": "curriculum/week-02-django-models-orm-admin/quiz.md",
+      "title": "Week 2 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-02-django-models-orm-admin/resources.md",
+      "title": "Week 2 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-03-views-templates-forms-auth/README.md",
+      "title": "Week 3 \u2014 Views, Templates, Forms, and Auth"
+    },
+    {
+      "path": "curriculum/week-03-views-templates-forms-auth/challenges/README.md",
+      "title": "Week 3 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-03-views-templates-forms-auth/challenges/challenge-01-custom-permission-decorator.md",
+      "title": "Challenge 1 \u2014 Custom permission decorator"
+    },
+    {
+      "path": "curriculum/week-03-views-templates-forms-auth/exercises/README.md",
+      "title": "Week 3 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-03-views-templates-forms-auth/exercises/exercise-01-three-views-three-ways.md",
+      "title": "Exercise 1 \u2014 Three views, three ways"
+    },
+    {
+      "path": "curriculum/week-03-views-templates-forms-auth/exercises/exercise-02-modelform-with-validation.md",
+      "title": "Exercise 2 \u2014 `ModelForm` with validation"
+    },
+    {
+      "path": "curriculum/week-03-views-templates-forms-auth/exercises/exercise-03-login-and-protected-views.md",
+      "title": "Exercise 3 \u2014 Login and protected views"
+    },
+    {
+      "path": "curriculum/week-03-views-templates-forms-auth/homework.md",
+      "title": "Week 3 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-03-views-templates-forms-auth/lecture-notes/01-function-vs-class-based-views.md",
+      "title": "Lecture 1 \u2014 Function-Based Views vs Class-Based Views"
+    },
+    {
+      "path": "curriculum/week-03-views-templates-forms-auth/lecture-notes/02-templates-and-the-form-system.md",
+      "title": "Lecture 2 \u2014 Templates and the Form System"
+    },
+    {
+      "path": "curriculum/week-03-views-templates-forms-auth/lecture-notes/03-auth-sessions-csrf-loginrequired.md",
+      "title": "Lecture 3 \u2014 Auth, Sessions, CSRF, and `LoginRequiredMixin`"
+    },
+    {
+      "path": "curriculum/week-03-views-templates-forms-auth/mini-project/README.md",
+      "title": "Mini-Project \u2014 `crunchwriter` v1"
+    },
+    {
+      "path": "curriculum/week-03-views-templates-forms-auth/quiz.md",
+      "title": "Week 3 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-03-views-templates-forms-auth/resources.md",
+      "title": "Week 3 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-04-postgresql-for-app-developers/README.md",
+      "title": "Week 4 \u2014 PostgreSQL for Application Developers"
+    },
+    {
+      "path": "curriculum/week-04-postgresql-for-app-developers/challenges/README.md",
+      "title": "Week 4 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-04-postgresql-for-app-developers/challenges/challenge-01-jsonb-vs-real-columns.md",
+      "title": "Challenge 1 \u2014 JSONB vs real columns"
+    },
+    {
+      "path": "curriculum/week-04-postgresql-for-app-developers/exercises/README.md",
+      "title": "Week 4 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-04-postgresql-for-app-developers/exercises/exercise-01-create-and-populate.md",
+      "title": "Exercise 1 \u2014 Create and populate"
+    },
+    {
+      "path": "curriculum/week-04-postgresql-for-app-developers/exercises/exercise-02-explain-a-slow-query.md",
+      "title": "Exercise 2 \u2014 `EXPLAIN` a slow query"
+    },
+    {
+      "path": "curriculum/week-04-postgresql-for-app-developers/exercises/exercise-03-add-an-index-measure-the-win.md",
+      "title": "Exercise 3 \u2014 Add an index, measure the win"
+    },
+    {
+      "path": "curriculum/week-04-postgresql-for-app-developers/homework.md",
+      "title": "Week 4 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-04-postgresql-for-app-developers/lecture-notes/01-psql-schema-and-indexes.md",
+      "title": "Lecture 1 \u2014 `psql`, Schema Design, and Indexes"
+    },
+    {
+      "path": "curriculum/week-04-postgresql-for-app-developers/lecture-notes/02-explain-analyze-and-the-query-planner.md",
+      "title": "Lecture 2 \u2014 `EXPLAIN ANALYZE` and the Query Planner"
+    },
+    {
+      "path": "curriculum/week-04-postgresql-for-app-developers/lecture-notes/03-transactions-isolation-jsonb-fts.md",
+      "title": "Lecture 3 \u2014 Transactions, Isolation Levels, JSONB, and Full-Text Search"
+    },
+    {
+      "path": "curriculum/week-04-postgresql-for-app-developers/mini-project/README.md",
+      "title": "Mini-Project \u2014 Profile a `crunchwriter` query, fix it, measure the win"
+    },
+    {
+      "path": "curriculum/week-04-postgresql-for-app-developers/quiz.md",
+      "title": "Week 4 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-04-postgresql-for-app-developers/resources.md",
+      "title": "Week 4 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-05-django-orm-deep-dive/README.md",
+      "title": "Week 5 \u2014 Django ORM Deep Dive"
+    },
+    {
+      "path": "curriculum/week-05-django-orm-deep-dive/challenges/README.md",
+      "title": "Week 5 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-05-django-orm-deep-dive/challenges/challenge-01-recreate-a-complex-sql-as-orm.md",
+      "title": "Challenge 1 \u2014 Recreate a complex SQL as ORM"
+    },
+    {
+      "path": "curriculum/week-05-django-orm-deep-dive/exercises/README.md",
+      "title": "Week 5 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-05-django-orm-deep-dive/exercises/exercise-01-annotate-puzzle.md",
+      "title": "Exercise 1 \u2014 Annotate Puzzle"
+    },
+    {
+      "path": "curriculum/week-05-django-orm-deep-dive/exercises/exercise-02-subquery-with-outerref.md",
+      "title": "Exercise 2 \u2014 Subquery with `OuterRef`"
+    },
+    {
+      "path": "curriculum/week-05-django-orm-deep-dive/exercises/exercise-03-window-functions.md",
+      "title": "Exercise 3 \u2014 Window Functions"
+    },
+    {
+      "path": "curriculum/week-05-django-orm-deep-dive/homework.md",
+      "title": "Week 5 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-05-django-orm-deep-dive/lecture-notes/01-select-prefetch-annotate-aggregate.md",
+      "title": "Lecture 1 \u2014 `select_related`, `prefetch_related`, `annotate`, `aggregate`"
+    },
+    {
+      "path": "curriculum/week-05-django-orm-deep-dive/lecture-notes/02-subqueries-outerref-window-functions.md",
+      "title": "Lecture 2 \u2014 Subqueries, `OuterRef`, `Exists`, `Q`, `F`, Window Functions"
+    },
+    {
+      "path": "curriculum/week-05-django-orm-deep-dive/lecture-notes/03-custom-managers-and-raw-sql-escape-hatches.md",
+      "title": "Lecture 3 \u2014 Custom Managers, Custom QuerySets, and Raw SQL Escape Hatches"
+    },
+    {
+      "path": "curriculum/week-05-django-orm-deep-dive/mini-project/README.md",
+      "title": "Mini-Project \u2014 `crunchwriter` Analytics Dashboard"
+    },
+    {
+      "path": "curriculum/week-05-django-orm-deep-dive/quiz.md",
+      "title": "Week 5 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-05-django-orm-deep-dive/resources.md",
+      "title": "Week 5 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-06-migrations-jobs-caching/README.md",
+      "title": "Week 6 \u2014 Migrations, Background Jobs, and Caching"
+    },
+    {
+      "path": "curriculum/week-06-migrations-jobs-caching/challenges/README.md",
+      "title": "Week 6 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-06-migrations-jobs-caching/challenges/challenge-01-image-thumbnails-async.md",
+      "title": "Challenge 1 \u2014 Image thumbnails, asynchronously"
+    },
+    {
+      "path": "curriculum/week-06-migrations-jobs-caching/exercises/README.md",
+      "title": "Week 6 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-06-migrations-jobs-caching/exercises/exercise-01-data-migration.md",
+      "title": "Exercise 1 \u2014 Data migration"
+    },
+    {
+      "path": "curriculum/week-06-migrations-jobs-caching/exercises/exercise-02-first-celery-task.md",
+      "title": "Exercise 2 \u2014 Your first Celery task"
+    },
+    {
+      "path": "curriculum/week-06-migrations-jobs-caching/exercises/exercise-03-cache-aside.md",
+      "title": "Exercise 3 \u2014 Cache-aside on the analytics dashboard"
+    },
+    {
+      "path": "curriculum/week-06-migrations-jobs-caching/homework.md",
+      "title": "Week 6 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-06-migrations-jobs-caching/lecture-notes/01-real-world-migrations.md",
+      "title": "Lecture 1 \u2014 Real-world migrations"
+    },
+    {
+      "path": "curriculum/week-06-migrations-jobs-caching/lecture-notes/02-celery-broker-worker-beat.md",
+      "title": "Lecture 2 \u2014 Celery: broker, worker, beat"
+    },
+    {
+      "path": "curriculum/week-06-migrations-jobs-caching/lecture-notes/03-redis-caching-patterns.md",
+      "title": "Lecture 3 \u2014 Redis caching patterns"
+    },
+    {
+      "path": "curriculum/week-06-migrations-jobs-caching/mini-project/README.md",
+      "title": "Mini-Project \u2014 Image upload and async thumbnail generation"
+    },
+    {
+      "path": "curriculum/week-06-migrations-jobs-caching/quiz.md",
+      "title": "Week 6 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-06-migrations-jobs-caching/resources.md",
+      "title": "Week 6 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-07-fastapi-fundamentals/README.md",
+      "title": "Week 7 \u2014 FastAPI Fundamentals"
+    },
+    {
+      "path": "curriculum/week-07-fastapi-fundamentals/challenges/challenge-01-rate-limit-middleware.md",
+      "title": "Challenge 1 \u2014 Token-bucket rate-limit middleware (pure ASGI)"
+    },
+    {
+      "path": "curriculum/week-07-fastapi-fundamentals/challenges/challenge-02-async-db-with-sqlmodel.md",
+      "title": "Challenge 2 \u2014 Async database access with SQLModel + asyncpg"
+    },
+    {
+      "path": "curriculum/week-07-fastapi-fundamentals/exercises/SOLUTIONS.md",
+      "title": "Exercises \u2014 Worked solutions"
+    },
+    {
+      "path": "curriculum/week-07-fastapi-fundamentals/homework.md",
+      "title": "Week 7 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-07-fastapi-fundamentals/lecture-notes/01-asgi-and-async-in-python-web.md",
+      "title": "Lecture 1 \u2014 ASGI and async in Python web"
+    },
+    {
+      "path": "curriculum/week-07-fastapi-fundamentals/lecture-notes/02-pydantic-v2-validation-and-serialization.md",
+      "title": "Lecture 2 \u2014 Pydantic v2: validation and serialisation"
+    },
+    {
+      "path": "curriculum/week-07-fastapi-fundamentals/lecture-notes/03-dependency-injection-and-routing.md",
+      "title": "Lecture 3 \u2014 Dependency injection, routing, OpenAPI emission, and the test client"
+    },
+    {
+      "path": "curriculum/week-07-fastapi-fundamentals/mini-project/README.md",
+      "title": "Mini-Project \u2014 `crunchreader-api`: a typed FastAPI service for \"books\""
+    },
+    {
+      "path": "curriculum/week-07-fastapi-fundamentals/quiz.md",
+      "title": "Week 7 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-07-fastapi-fundamentals/resources.md",
+      "title": "Week 7 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-08-websockets-sse-and-background-jobs/README.md",
+      "title": "Week 8 \u2014 WebSockets, Server-Sent Events, and Background Jobs"
+    },
+    {
+      "path": "curriculum/week-08-websockets-sse-and-background-jobs/challenges/challenge-01-redis-pubsub-broadcast.md",
+      "title": "Challenge 1 \u2014 Redis Pub/Sub broadcaster for multi-worker WebSocket fan-out"
+    },
+    {
+      "path": "curriculum/week-08-websockets-sse-and-background-jobs/challenges/challenge-02-celery-vs-arq-on-a-real-task.md",
+      "title": "Challenge 2 \u2014 Celery vs ARQ on a real task"
+    },
+    {
+      "path": "curriculum/week-08-websockets-sse-and-background-jobs/exercises/SOLUTIONS.md",
+      "title": "Exercises \u2014 Worked solutions"
+    },
+    {
+      "path": "curriculum/week-08-websockets-sse-and-background-jobs/homework.md",
+      "title": "Week 8 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-08-websockets-sse-and-background-jobs/lecture-notes/01-websockets-the-protocol-and-the-handler.md",
+      "title": "Lecture 1 \u2014 WebSockets: the protocol and the handler"
+    },
+    {
+      "path": "curriculum/week-08-websockets-sse-and-background-jobs/lecture-notes/02-server-sent-events-and-when-to-pick-them.md",
+      "title": "Lecture 2 \u2014 Server-Sent Events and when to pick them"
+    },
+    {
+      "path": "curriculum/week-08-websockets-sse-and-background-jobs/lecture-notes/03-background-jobs-arq-celery-rq.md",
+      "title": "Lecture 3 \u2014 Background jobs: ARQ, Celery, RQ"
+    },
+    {
+      "path": "curriculum/week-08-websockets-sse-and-background-jobs/mini-project/README.md",
+      "title": "Mini-Project \u2014 `crunchexports`: FastAPI + ARQ + SSE"
+    },
+    {
+      "path": "curriculum/week-08-websockets-sse-and-background-jobs/quiz.md",
+      "title": "Week 8 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-08-websockets-sse-and-background-jobs/resources.md",
+      "title": "Week 8 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-09-caching-with-redis/README.md",
+      "title": "Week 9 \u2014 Caching with Redis"
+    },
+    {
+      "path": "curriculum/week-09-caching-with-redis/challenges/challenge-01-cache-vs-no-cache-benchmark.md",
+      "title": "Challenge 1 \u2014 Cache vs. no-cache benchmark on a real endpoint"
+    },
+    {
+      "path": "curriculum/week-09-caching-with-redis/challenges/challenge-02-redis-session-store-django-fastapi.md",
+      "title": "Challenge 2 \u2014 Redis session store: Django + FastAPI side by side"
+    },
+    {
+      "path": "curriculum/week-09-caching-with-redis/exercises/SOLUTIONS.md",
+      "title": "Exercises \u2014 Worked solutions"
+    },
+    {
+      "path": "curriculum/week-09-caching-with-redis/homework.md",
+      "title": "Week 9 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-09-caching-with-redis/lecture-notes/01-redis-data-types-and-the-four-cache-patterns.md",
+      "title": "Lecture 1 \u2014 Redis data types and the four cache patterns"
+    },
+    {
+      "path": "curriculum/week-09-caching-with-redis/lecture-notes/02-eviction-policies-and-invalidation-strategies.md",
+      "title": "Lecture 2 \u2014 Eviction policies and invalidation strategies"
+    },
+    {
+      "path": "curriculum/week-09-caching-with-redis/lecture-notes/03-the-cache-stampede-and-redis-sessions.md",
+      "title": "Lecture 3 \u2014 The cache stampede and Redis sessions"
+    },
+    {
+      "path": "curriculum/week-09-caching-with-redis/mini-project/README.md",
+      "title": "Mini-Project \u2014 `crunchcache`: measure-then-fix on a real endpoint"
+    },
+    {
+      "path": "curriculum/week-09-caching-with-redis/quiz.md",
+      "title": "Week 9 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-09-caching-with-redis/resources.md",
+      "title": "Week 9 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-10-search-fts-opensearch-meilisearch/README.md",
+      "title": "Week 10 \u2014 Search: Postgres FTS, OpenSearch, Meilisearch"
+    },
+    {
+      "path": "curriculum/week-10-search-fts-opensearch-meilisearch/challenges/challenge-01-three-backend-relevance-harness.md",
+      "title": "Challenge 1 \u2014 The three-backend relevance harness"
+    },
+    {
+      "path": "curriculum/week-10-search-fts-opensearch-meilisearch/challenges/challenge-02-alias-swap-reindex.md",
+      "title": "Challenge 2 \u2014 Zero-downtime reindex with alias swap"
+    },
+    {
+      "path": "curriculum/week-10-search-fts-opensearch-meilisearch/exercises/SOLUTIONS.md",
+      "title": "Exercise solutions \u2014 Week 10"
+    },
+    {
+      "path": "curriculum/week-10-search-fts-opensearch-meilisearch/homework.md",
+      "title": "Week 10 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-10-search-fts-opensearch-meilisearch/lecture-notes/01-postgres-full-text-search.md",
+      "title": "Lecture 1 \u2014 Postgres full-text search: `tsvector`, `tsquery`, `ts_rank`, `GIN`, and `pg_trgm`"
+    },
+    {
+      "path": "curriculum/week-10-search-fts-opensearch-meilisearch/lecture-notes/02-opensearch-analyzers-bm25-and-the-dsl.md",
+      "title": "Lecture 2 \u2014 OpenSearch: analyzers, BM25, and the search DSL"
+    },
+    {
+      "path": "curriculum/week-10-search-fts-opensearch-meilisearch/lecture-notes/03-meilisearch-typo-tolerance-and-picking-a-backend.md",
+      "title": "Lecture 3 \u2014 Meilisearch, the relevance harness, and picking a backend"
+    },
+    {
+      "path": "curriculum/week-10-search-fts-opensearch-meilisearch/mini-project/README.md",
+      "title": "Mini-project \u2014 `crunchsearch`"
+    },
+    {
+      "path": "curriculum/week-10-search-fts-opensearch-meilisearch/quiz.md",
+      "title": "Week 10 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-10-search-fts-opensearch-meilisearch/resources.md",
+      "title": "Week 10 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-11-multi-tenancy/README.md",
+      "title": "Week 11 \u2014 Multi-tenancy: shared schema, schema-per-tenant, database-per-tenant, and PostgreSQL row-level security"
+    },
+    {
+      "path": "curriculum/week-11-multi-tenancy/challenges/challenge-01-rls-leak-hunt.md",
+      "title": "Challenge 1 \u2014 The RLS leak hunt"
+    },
+    {
+      "path": "curriculum/week-11-multi-tenancy/challenges/challenge-02-cross-tenant-migration.md",
+      "title": "Challenge 2 \u2014 Cross-tenant migration: pool versus bridge versus silo"
+    },
+    {
+      "path": "curriculum/week-11-multi-tenancy/exercises/SOLUTIONS.md",
+      "title": "Exercise solutions \u2014 Week 11"
+    },
+    {
+      "path": "curriculum/week-11-multi-tenancy/homework.md",
+      "title": "Week 11 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-11-multi-tenancy/lecture-notes/01-isolation-models-pool-bridge-silo.md",
+      "title": "Lecture 1 \u2014 Isolation models: pool (shared schema), bridge (schema-per-tenant), silo (database-per-tenant)"
+    },
+    {
+      "path": "curriculum/week-11-multi-tenancy/lecture-notes/02-row-level-security-and-tenant-context.md",
+      "title": "Lecture 2 \u2014 Row-level security and tenant-context propagation"
+    },
+    {
+      "path": "curriculum/week-11-multi-tenancy/lecture-notes/03-caching-rate-limits-and-cross-tenant-migrations.md",
+      "title": "Lecture 3 \u2014 Tenant-aware caching, per-tenant rate limits, and cross-tenant migrations"
+    },
+    {
+      "path": "curriculum/week-11-multi-tenancy/mini-project/README.md",
+      "title": "Mini-project \u2014 `crunchtenant`"
+    },
+    {
+      "path": "curriculum/week-11-multi-tenancy/quiz.md",
+      "title": "Week 11 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-11-multi-tenancy/resources.md",
+      "title": "Week 11 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-12-capstone-production-backend/README.md",
+      "title": "Week 12 \u2014 Capstone: ship a production-grade multi-tenant Python backend"
+    },
+    {
+      "path": "curriculum/week-12-capstone-production-backend/lecture-notes/01-the-capstone-architecture.md",
+      "title": "Lecture 1 \u2014 The capstone architecture: Django for the admin, FastAPI for the public, Postgres and Redis underneath"
+    },
+    {
+      "path": "curriculum/week-12-capstone-production-backend/lecture-notes/02-deploy-to-a-free-tier.md",
+      "title": "Lecture 2 \u2014 Deploy to a free tier: Fly.io, Render, Railway"
+    },
+    {
+      "path": "curriculum/week-12-capstone-production-backend/lecture-notes/03-the-twelve-week-wrap-up.md",
+      "title": "Lecture 3 \u2014 The twelve-week wrap-up: what every prior week contributed and where C17 picks up"
+    },
+    {
+      "path": "curriculum/week-12-capstone-production-backend/resources.md",
+      "title": "Week 12 \u2014 Resources"
+    }
+  ]
+}
